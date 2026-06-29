@@ -19,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
