@@ -9,9 +9,9 @@ public:
                 if(st.empty()) return false;
                 char tops=st.top();
                 st.pop();
-                if(ch==')' || tops!='(') return false;
-                if(ch==']' || tops!='[') return false;
-                if(ch=='}' || tops!='{') return false;
+                if(ch==')' && tops!='(') return false;
+                if(ch==']' && tops!='[') return false;
+                if(ch=='}' && tops!='{') return false;
             }
         }
         return st.empty();
