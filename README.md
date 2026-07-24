@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
+| [3498-reverse-degree-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
