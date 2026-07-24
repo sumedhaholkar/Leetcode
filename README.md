@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumedhaholkar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sumedhaholkar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sumedhaholkar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sumedhaholkar/Leetcode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumedhaholkar/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
