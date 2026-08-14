@@ -11,6 +11,7 @@ A collection of LeetCode questions !
 | [0387-first-unique-character-in-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 ## String
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ A collection of LeetCode questions !
 | [2000-reverse-prefix-of-word](https://github.com/sumedhaholkar/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumedhaholkar/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -30,6 +32,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumedhaholkar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumedhaholkar/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
