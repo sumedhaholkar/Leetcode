@@ -32,6 +32,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumedhaholkar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumedhaholkar/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/sumedhaholkar/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumedhaholkar/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -49,6 +50,7 @@ A collection of LeetCode questions !
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
