@@ -132,4 +132,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/sumedhaholkar/Leetcode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
