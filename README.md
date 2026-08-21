@@ -55,6 +55,7 @@ A collection of LeetCode questions !
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions !
 | [0620-not-boring-movies](https://github.com/sumedhaholkar/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1683-invalid-tweets](https://github.com/sumedhaholkar/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/sumedhaholkar/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
