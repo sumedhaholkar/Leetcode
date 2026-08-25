@@ -16,6 +16,7 @@ A collection of LeetCode questions !
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions !
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
