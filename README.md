@@ -13,6 +13,7 @@ A collection of LeetCode questions !
 | [0904-fruit-into-baskets](https://github.com/sumedhaholkar/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/sumedhaholkar/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -115,6 +116,7 @@ A collection of LeetCode questions !
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumedhaholkar/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumedhaholkar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
