@@ -115,6 +115,7 @@ A collection of LeetCode questions !
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumedhaholkar/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -178,5 +179,6 @@ A collection of LeetCode questions !
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
