@@ -75,6 +75,7 @@ A collection of LeetCode questions !
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sumedhaholkar/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
