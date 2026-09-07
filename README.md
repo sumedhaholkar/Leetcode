@@ -72,6 +72,7 @@ A collection of LeetCode questions !
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/sumedhaholkar/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sumedhaholkar/Leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions !
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/sumedhaholkar/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/sumedhaholkar/Leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
