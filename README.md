@@ -124,6 +124,7 @@ A collection of LeetCode questions !
 | [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumedhaholkar/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumedhaholkar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/sumedhaholkar/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
