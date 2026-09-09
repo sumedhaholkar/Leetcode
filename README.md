@@ -55,6 +55,7 @@ A collection of LeetCode questions !
 | [0031-next-permutation](https://github.com/sumedhaholkar/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/sumedhaholkar/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
@@ -187,4 +190,12 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
