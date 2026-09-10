@@ -56,6 +56,7 @@ A collection of LeetCode questions !
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
