@@ -123,6 +123,7 @@ A collection of LeetCode questions !
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions !
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sumedhaholkar/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sumedhaholkar/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -217,4 +219,8 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sumedhaholkar/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sumedhaholkar/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
