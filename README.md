@@ -94,6 +94,7 @@ A collection of LeetCode questions !
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumedhaholkar/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/sumedhaholkar/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sumedhaholkar/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -212,6 +213,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumedhaholkar/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sumedhaholkar/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sumedhaholkar/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
