@@ -69,6 +69,7 @@ A collection of LeetCode questions !
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/sumedhaholkar/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sumedhaholkar/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sumedhaholkar/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/sumedhaholkar/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Trie
