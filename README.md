@@ -74,6 +74,7 @@ A collection of LeetCode questions !
 | [0724-find-pivot-index](https://github.com/sumedhaholkar/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sumedhaholkar/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/sumedhaholkar/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions !
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -217,6 +219,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
