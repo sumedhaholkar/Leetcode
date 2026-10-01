@@ -202,6 +202,7 @@ A collection of LeetCode questions !
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
