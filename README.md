@@ -81,6 +81,7 @@ A collection of LeetCode questions !
 | [1695-maximum-erasure-value](https://github.com/sumedhaholkar/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/sumedhaholkar/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumedhaholkar/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions !
 | [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions !
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sumedhaholkar/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumedhaholkar/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
