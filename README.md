@@ -20,6 +20,7 @@ A collection of LeetCode questions !
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3668-restore-finishing-order](https://github.com/sumedhaholkar/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ A collection of LeetCode questions !
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumedhaholkar/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3668-restore-finishing-order](https://github.com/sumedhaholkar/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumedhaholkar/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
