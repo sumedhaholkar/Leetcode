@@ -94,6 +94,7 @@ A collection of LeetCode questions !
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumedhaholkar/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumedhaholkar/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumedhaholkar/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ A collection of LeetCode questions !
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumedhaholkar/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumedhaholkar/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumedhaholkar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sumedhaholkar/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/sumedhaholkar/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
