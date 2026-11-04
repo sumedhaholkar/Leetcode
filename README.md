@@ -10,6 +10,7 @@ A collection of LeetCode questions !
 | [0036-valid-sudoku](https://github.com/sumedhaholkar/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sumedhaholkar/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sumedhaholkar/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions !
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -175,6 +178,7 @@ A collection of LeetCode questions !
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -262,6 +266,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +275,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumedhaholkar/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
