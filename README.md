@@ -70,6 +70,7 @@ A collection of LeetCode questions !
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumedhaholkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sumedhaholkar/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
