@@ -160,6 +160,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sumedhaholkar/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
