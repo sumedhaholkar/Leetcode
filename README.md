@@ -101,6 +101,7 @@ A collection of LeetCode questions !
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumedhaholkar/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sumedhaholkar/Leetcode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumedhaholkar/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
