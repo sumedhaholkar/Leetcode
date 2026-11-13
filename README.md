@@ -67,6 +67,7 @@ A collection of LeetCode questions !
 | [0027-remove-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/sumedhaholkar/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumedhaholkar/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/sumedhaholkar/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/sumedhaholkar/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumedhaholkar/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumedhaholkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumedhaholkar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
