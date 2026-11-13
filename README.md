@@ -34,6 +34,7 @@ A collection of LeetCode questions !
 | [0020-valid-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0796-rotate-string](https://github.com/sumedhaholkar/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/sumedhaholkar/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumedhaholkar/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -299,4 +300,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumedhaholkar/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/sumedhaholkar/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
