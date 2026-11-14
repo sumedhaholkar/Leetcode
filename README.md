@@ -87,6 +87,7 @@ A collection of LeetCode questions !
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumedhaholkar/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/sumedhaholkar/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/sumedhaholkar/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sumedhaholkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sumedhaholkar/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1051-height-checker](https://github.com/sumedhaholkar/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -158,6 +159,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sumedhaholkar/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0735-asteroid-collision](https://github.com/sumedhaholkar/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/sumedhaholkar/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0735-asteroid-collision](https://github.com/sumedhaholkar/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
