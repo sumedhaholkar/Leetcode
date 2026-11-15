@@ -94,6 +94,7 @@ A collection of LeetCode questions !
 | [1331-rank-transform-of-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sumedhaholkar/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sumedhaholkar/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumedhaholkar/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions !
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumedhaholkar/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -214,6 +216,7 @@ A collection of LeetCode questions !
 | [0560-subarray-sum-equals-k](https://github.com/sumedhaholkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sumedhaholkar/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/sumedhaholkar/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
