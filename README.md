@@ -295,6 +295,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sumedhaholkar/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sumedhaholkar/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,4 +316,8 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/sumedhaholkar/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/sumedhaholkar/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
