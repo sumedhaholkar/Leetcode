@@ -77,6 +77,7 @@ A collection of LeetCode questions !
 | [0053-maximum-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sumedhaholkar/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumedhaholkar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/sumedhaholkar/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sumedhaholkar/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumedhaholkar/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode questions !
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/sumedhaholkar/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sumedhaholkar/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
@@ -336,4 +338,5 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/sumedhaholkar/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
