@@ -181,6 +181,7 @@ A collection of LeetCode questions !
 | [0050-powx-n](https://github.com/sumedhaholkar/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/sumedhaholkar/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumedhaholkar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
