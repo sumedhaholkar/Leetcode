@@ -43,6 +43,7 @@ A collection of LeetCode questions !
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumedhaholkar/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumedhaholkar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/sumedhaholkar/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sumedhaholkar/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumedhaholkar/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
