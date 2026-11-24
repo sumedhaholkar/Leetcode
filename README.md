@@ -66,6 +66,7 @@ A collection of LeetCode questions !
 | [2090-k-radius-subarray-averages](https://github.com/sumedhaholkar/Leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumedhaholkar/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumedhaholkar/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions !
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumedhaholkar/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumedhaholkar/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3295-report-spam-message](https://github.com/sumedhaholkar/Leetcode/tree/master/3295-report-spam-message) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumedhaholkar/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumedhaholkar/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sumedhaholkar/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -193,6 +195,7 @@ A collection of LeetCode questions !
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumedhaholkar/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumedhaholkar/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumedhaholkar/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumedhaholkar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumedhaholkar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 | Problem Name | Difficulty |
@@ -319,6 +323,7 @@ A collection of LeetCode questions !
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumedhaholkar/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
