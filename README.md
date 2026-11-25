@@ -193,6 +193,7 @@ A collection of LeetCode questions !
 | [1323-maximum-69-number](https://github.com/sumedhaholkar/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumedhaholkar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/sumedhaholkar/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sumedhaholkar/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sumedhaholkar/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -225,6 +226,7 @@ A collection of LeetCode questions !
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/sumedhaholkar/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/sumedhaholkar/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sumedhaholkar/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sumedhaholkar/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sumedhaholkar/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumedhaholkar/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
