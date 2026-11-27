@@ -186,6 +186,7 @@ A collection of LeetCode questions !
 | [0009-palindrome-number](https://github.com/sumedhaholkar/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/sumedhaholkar/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/sumedhaholkar/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sumedhaholkar/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sumedhaholkar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sumedhaholkar/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/sumedhaholkar/Leetcode/tree/master/0507-perfect-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sumedhaholkar/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/sumedhaholkar/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/sumedhaholkar/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions !
 | ------- | ------- |
 | [0078-subsets](https://github.com/sumedhaholkar/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sumedhaholkar/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/sumedhaholkar/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
